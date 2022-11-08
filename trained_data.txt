@@ -1,12 +1,4 @@
 {
-	"goobye": "Goobye, have a good day :)",
-	"": "",
-	"": "",
-	"": "",
-	"": "",
-	"": "",
-	"": "",
-	"": "",
-	"": "",
-	"": "",
-}{
+	"whats up": "Nothin' much, you?",
+	"i'm doing fine": "Nice!",
+}

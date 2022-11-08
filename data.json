@@ -1,4 +1,7 @@
 {
     "hello": "Hello! Let's get started.",
-    "hi": "Hello! Let's get started."
+    "hi": "Hello! Let's get started.",
+    "what is the date": "The date is {date}",
+    "what's up": "Nothin' much, you?",
+    "i'm doing fine": "Nice!"
 }

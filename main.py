@@ -12,6 +12,8 @@ import json
 
 #data from data.json
 data = json.load(open("data.json"))
+
+
 # Define function
 
 
